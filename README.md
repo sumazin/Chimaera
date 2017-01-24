@@ -1,2 +1,2 @@
 # Chimaera
-clonality inference from mutations across biopsies
+Clonality Inference from Mutations Across Biopsies.

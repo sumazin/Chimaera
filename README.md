@@ -1,5 +1,5 @@
 # Chimaera
-Chimæra: Clonality Inference from Mutations Across Biopsies. The develpoment of Chimæra was primarily sponsored by European Union’s Horizon 2020 research and innovation programme under grant agreement 668858 to the PrECISE consorrtium. The PrECISE project maintains webpage at http://www.precise-project.eu.
+Chimæra: Clonality Inference from Mutations Across Biopsies. The development of Chimæra was primarily sponsored by European Union’s Horizon 2020 research and innovation programme under grant agreement 668858 to the PrECISE consortium. The PrECISE project maintains webpage at http://www.precise-project.eu.
 
 Chimæra estimates mutation frequencies from WES of tumors with genomic instability. Chimæra relies on multiple biopsies for the same tumor to, first, approximate CNVs and mutation frequencies; then, identify mutations with similar approximate frequencies and associate them with subclones; and, finally, to estimate the true frequencies of these mutations and the associated subclones.
 

@@ -14,8 +14,9 @@ This software release accmpanies a paper submission "Inferring clonal compositio
 
 
 LibraryID	Biopsy
-
-JAD-1C	1 <Br>
+<Br>
+JAD-1C<\t>1 
+<Br>
 JAD-23C	2
 <Br>
 JAD-24C	3

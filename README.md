@@ -17,21 +17,21 @@ LibraryID	Biopsy
 
 JAD-1C	1 <Br>
 JAD-23C	2
-
+<Br>
 JAD-24C	3
-
+<Br>
 JAD-4C	4
-
+<Br>
 JAD-5C	5
-
+<Br>
 JAD-6C	6
-
+<Br>
 JAD-7C	7
-
+<Br>
 JAD-25C	8
-
+<Br>
 JAD-9C	9
-
+<Br>
 JAD-26C	10
-
+<Br>
 JAD-11C	Normal

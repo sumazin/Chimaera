@@ -8,7 +8,7 @@ Requirements:
 R environment with tidyr and tclust packages installed
 Perl
 
-This software release accmpanies a paper submission "Inferring clonal composition from multiple tumor biopsies". The paper's preprint is available for download from arXiv. Supplementary Tables S1 and S2 for the paper are included in the folder SupplementaryMaterialsForManicaEt-al. In this work, Chimæra was used to analyze WES profiles of CRPC biopsies. These (fastq files), together with blood controls, are available for download from ENA project PRJEB19193. The data is encoded as follows:
+This software release accmpanies a paper submission "Inferring clonal composition from multiple tumor biopsies". The paper's preprint is available for download from arXiv; Article ID 1701.07940. Supplementary Tables S1 and S2 for the paper are included in the folder SupplementaryMaterialsForManicaEt-al. In this work, Chimæra was used to analyze WES profiles of CRPC biopsies. These (fastq files), together with blood controls, are available for download from ENA project PRJEB19193. The data is encoded as follows:
 
 
 LibraryID	Biopsy
